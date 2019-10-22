@@ -8,6 +8,6 @@ Un blog increible para el curso de Git y Github de Platzi donde se aprende a man
 * Trucos locos del profesor 
 * Las personalidades multiples de Freddy
 * Creado por el equipo de Platzi y yo <3
-
+* Incluye ejemplos en Windows, Linuz y Mac
 Este **Readme.md es un chiste** 
 
